@@ -1,4 +1,4 @@
-# ⟡ FlowForge Community Blocks
+# FlowForge Community Blocks
 
 A curated registry of community-built blocks for [FlowForge](https://github.com/keylympi/flowforge) — the open-source visual automation tool for Linux, Windows, and macOS.
 
@@ -124,19 +124,9 @@ FFmpeg wrappers, image resizing, audio processing, and screenshot capture.
 
 ---
 
-### 🌿 Git
+### 👨‍💻 Developer
 
-Commit, push, PR creation, repo status, and other Git workflow blocks.
-
-| Block | Description | Language | Author |
-|---|---|---|---|
-| *More coming soon* | | | |
-
----
-
-### 🏠 Homelab
-
-Docker, systemd, Proxmox, Home Assistant, and self-hosted service blocks.
+Git, Code Editing, Language Runtimes.
 
 | Block | Description | Language | Author |
 |---|---|---|---|
